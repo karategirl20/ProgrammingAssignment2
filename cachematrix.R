@@ -36,6 +36,7 @@ cacheSolve <- function(x, ...) {
 }
 
 ## The following lines are there for testing the above code
+##
 mc1<-makeCacheMatrix(matrix(c(1,2,3,4),nrow = 2))
 mc1$get()
 mc1$getmc1$setinverse(solve)
