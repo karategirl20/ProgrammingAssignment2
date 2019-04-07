@@ -1,4 +1,5 @@
-## functions do
+
+#This below command will clear all the "visible" objects 
 rm(list=ls())
 
 ## Below are two functions "makeCacheMatrix" and "cacheSolve"that will be used to create a special object that stores a matrix and caches its inverse. This assignment is called"Caching the Inverse of a Matrix"
